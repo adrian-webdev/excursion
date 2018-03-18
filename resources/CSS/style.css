@@ -1,0 +1,20 @@
+#header {
+  font-family: Verdana;
+  font-weight :normal;
+  font-size: 50px
+  color: White;
+  text-align: center;
+}
+
+.subheading{
+  color: Aquamarine;
+  font-size: 16px;
+}
+div #footer {
+  color: gray;
+  text-align: right;
+}
+``
+h2 {
+  color: green;
+}
